@@ -7,6 +7,12 @@ MIT
 @angular/platform-browser
 MIT
 
+@angular/router
+MIT
+
+@google-pay/button-angular
+Apache-2.0
+
 rxjs
 Apache-2.0
                                Apache License
